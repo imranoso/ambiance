@@ -1,0 +1,13 @@
+Tâches à faire pour finaliser le projet
+1) ouvrir l'explorateur de fichiers
+2)etre capable d'afficher la musique joué dans le moment 
+3)assigné une musique 
+4) definir les plagues horaires ou les playis vont etre joué
+
+
+Veille technologique:
+1)	Pouvoir d'afficher la musique joué dans le moment 
+2)	Pouvoir controler en temps en réelle 
+3)	Pouvoir modifier les couleurs du led en fonction la musique joué
+
+
