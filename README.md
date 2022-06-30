@@ -4,4 +4,4 @@
 
 ## Partie 1
 
-Grand ^projet final pour valider le diplome BTS SNIR (version inital)
+Grand projet final pour valider le diplome BTS SNIR (version inital)
