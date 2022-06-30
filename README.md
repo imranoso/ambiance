@@ -1,13 +1,7 @@
 # Projet django : Ambiance
 
-**Auteur :** Imran.
+**Auteur :** Imran., Lounis, Maxime, Aubin
 
 ## Partie 1
 
-explication ici 
-
-## Partie 2
-
-
-
-## Partie 3
+Grand ^projet final pour valider le diplome BTS SNIR (version inital)
