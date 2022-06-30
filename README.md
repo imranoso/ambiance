@@ -2,7 +2,7 @@
 
 **Auteurs :** Imran, Lounis, Maxime, Aubin
 
-# Préésentation du projet:
+# Présentation du projet:
 
 Grand projet final pour valider le diplôme BTS SNIR (version initial)
 Pour ce projet on a utilisé les frameworks Django et sqLite pour le Backend et Bootstrap pour le frontend ainsi 
