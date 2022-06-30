@@ -2,26 +2,24 @@
 
 **Auteurs :** Imran, Lounis, Maxime, Aubin
 
-# Presentation du projet:
+# Préésentation du projet:
 
-Grand projet final pour valider le diplome BTS SNIR (version inital)
+Grand projet final pour valider le diplôme BTS SNIR (version initial)
+Pour ce projet on a utilisé les frameworks Django et sqLite pour le Backend et Bootstrap pour le frontend ainsi 
+des systèmes embarqué qui sont Arduino Uno (Pour le Capteur DHT11) et Raspberry Pi 4 (Utilisé pour l'installation du serveur, l'API et l'application web).
 
-Pour ce projet on a utilisé les framworks Django et sqLite pour le Backend et Boostrap pour le frontend
-ainsi des systemes embarqué qui sont Arduino Uno (Pour le Capteur DHT11) et 
-Raspberry Pi4 (Utilisé pour l'instatllion du serveur, l'API et l'application web).
+Dans ce projet j'étais le développeur du Front End (Bootstrap), de l'API (Django) et du capteur de température (C++).
 
-Dans ce projet j'etais le developpeur du Frontend (Boostrap), de l'API (Django) et du capteur de temperature (C++).
+-----------------------------------------------------------------------------------------------------------------------
 
-----------------------------------------------------------------------------------------------------
+Le projet consiste à ambiancer la salle d'accueil du lycée Baggio avec des leds autour du plafond et la production de la musique 
+programmée par l'utilisateur (CPE de l'établissement) à partir de l'application web.
 
-Le projet consiste ambiancer la salle d'accueil du lycée baggio avec des leds autour du plafond et la production de la musique programmé par l'utilisateur (CPE de l'etablisement) à partir de l'application web.
+Les leds sont connectées à la carte Raspberry avec un programme développé en python qui permet de changer la couleur selon la température du jour.
+Dans la carte Raspberry on paramètre un point d'accès wifi qui permet à l'utilisateur de se connecter à la page web et 
+aussi relier avec la carte arduino pour qu'il puisse envoyer les données de la température en requêtes http en temps réel.
 
-Les leds sont connéctés à la carte Raspbery avec un programme developpé en python qui permet changer la couleur selon la température du jour.
+Le capteur de température implémenté dans l'arduino (DHT11) permet d'acquerir la température et l'humidité en temps réel.
 
-Dans la carte Raspberry on parametre un point d'accès wifi qui permet à l'utilisateur de se connecter à la page web et aussi relier avec la carte arduino pour qu'il puisse envoyer les données de la temperature en requettes http en temps réel.
+Je suis navré de vous informer que la version a été effacée accidentellement par mon camarade d'équipe à la fin de l'épreuve. Pour plus de détails du ce grand projet contactez à cet email: imran.ajmalpro@gmail.com
 
-Le capteur de temperature implementée dans l'arduino (DHT11) permet d'acquerir la temperature et l'humidité en temps réel.
-
-
-Je suis navré de vous informer que la version a était effacé accidementale par mon camarade d'equipe à la fin de l'epreuve.
-Pour plus de details du ce grand projet contactez à cet email: imran.ajmalpro@gmail.com 
