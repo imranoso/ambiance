@@ -1,6 +1,6 @@
 # Projet django : Ambiance
 
-**Auteur :** Imran, Lounis, Maxime, Aubin
+**Auteurs :** Imran, Lounis, Maxime, Aubin
 
 # Presentation du projet:
 
